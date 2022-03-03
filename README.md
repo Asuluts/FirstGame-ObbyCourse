@@ -1,2 +1,2 @@
-# FirstGame-ObbyCourse
+# FirstGame-RocketBoost
 My first ever game
